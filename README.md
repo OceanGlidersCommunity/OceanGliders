@@ -7,6 +7,6 @@ If you want to join the community effort just brouse through the different repos
 
 We start with the Oxygen SOP here: https://github.com/OceanGlidersCommunity/Oxygen_SOP
 
-SOPs for Salinity, Nitrate and Depth Average Currents (DACs) are in preparation already and will be uploeaded soon.\
+SOPs for Salinity, Nitrate and Depth Average Currents (DACs) are in preparation already and will be uploeaded soon.
 
 Stay tuned!
