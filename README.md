@@ -1,5 +1,3 @@
-# About
-
 ![ OceanGliders Logo](logo-ocean-gliders.png "OceanGliders Logo")
 
 Here the https://www.oceangliders.org community shares and discusses best practices. 
