@@ -12,3 +12,7 @@ If you want to join the community effort just brouse through the different repos
 If you wish to contribute to the SOP development just let us know [here](https://github.com/OceanGlidersCommunity/OceanGliders/discussions/1).
 
 Stay tuned and get involved!
+
+# Code of Conduct
+- link Code of Conduct file here as soon as finalized. Join the discussion [here](https://github.com/OceanGlidersCommunity/OG-format-user-manual/pull/23)
+
