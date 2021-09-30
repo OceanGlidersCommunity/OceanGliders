@@ -14,5 +14,5 @@ If you wish to contribute to the SOP development just let us know [here](https:/
 Stay tuned and get involved!
 
 # Code of Conduct
-- link to Code of Conduct file here as soon as finalized. Join the discussion [here](https://github.com/OceanGlidersCommunity/OG-format-user-manual/pull/23)
+- add link to Code of Conduct file here as soon as finalized. Join the discussion [here](https://github.com/OceanGlidersCommunity/OG-format-user-manual/pull/23)
 
