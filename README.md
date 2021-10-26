@@ -3,7 +3,7 @@
 Here the [OceanGliders](https://www.oceangliders.org) community shares and discusses best practices, data formats and vocabularies. 
 
 # How to contribute
-If you want to join the community effort just brouse through the different repositories, rais issues or start a discussion.
+If you want to join the community effort just brouse through the different repositories, raise issues or start a discussion.
 
 # Recent ongoing efforts
 - Access and discuss the new [OceanGliders format](https://github.com/OceanGlidersCommunity/OG1.0-user-manual).
