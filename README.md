@@ -5,7 +5,7 @@ Here the [OceanGliders](https://www.oceangliders.org) community shares and discu
 # How to contribute
 If you want to join the community effort just brouse through the different repositories, raise issues or start a discussion.
 
-# Recent ongoing efforts
+# Ongoing efforts
 - [GitHub training](https://github.com/OceanGlidersCommunity/Oxygen_SOP/discussions/133)
 - Access and discuss the new [OceanGliders format](https://github.com/OceanGlidersCommunity/OG1.0-user-manual).
 - SOPs for Data Assembly Centers are available [here](https://github.com/OceanGlidersCommunity/DataAssemblyCenter_SOP).
