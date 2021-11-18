@@ -4,6 +4,7 @@ Here the [OceanGliders](https://www.oceangliders.org) community shares and discu
 
 # How to contribute
 If you want to join the community effort just brouse through the different repositories, raise issues or start a discussion.
+Please make your membership public to increase our visibility. 
 
 # Ongoing community efforts
 - [GitHub training](https://github.com/OceanGlidersCommunity/LearningGitHub/discussions/20)
