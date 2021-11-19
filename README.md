@@ -1,10 +1,10 @@
-![ OceanGliders Logo](logo-ocean-gliders.png "OceanGliders Logo")
+![ OceanGliders Logo](/profile/logo-ocean-gliders.png "OceanGliders Logo")
 
 Here the [OceanGliders](https://www.oceangliders.org) community shares and discusses best practices, data formats and vocabularies. 
 
 # How to contribute
-If you want to join the community effort just brouse through the different repositories, raise issues or start a discussion.
-Please make your membership public to increase our visibility. 
+We are an open community! If you want to join the effort just browse through the different repositories, raise issues or start a discussion.
+A good start is also to [introduce you](https://github.com/OceanGlidersCommunity/OceanGliders/discussions/1).
 
 # Ongoing community efforts
 - [GitHub training](https://github.com/OceanGlidersCommunity/LearningGitHub/discussions/20)
@@ -17,8 +17,5 @@ Please make your membership public to increase our visibility.
 
 If you wish to contribute to the SOP development just let us know [here](https://github.com/OceanGlidersCommunity/OceanGliders/discussions/1).
 
-Stay tuned and get involved!
-
 # Code of Conduct
-- add link to Code of Conduct file here as soon as finalized. Join the discussion [here](https://github.com/OceanGlidersCommunity/OG-format-user-manual/pull/23)
-
+Please read and follow our [Code of Conduct](https://github.com/OceanGlidersCommunity/OceanGliders/blob/main/CODE_OF_CONDUCT.md).
