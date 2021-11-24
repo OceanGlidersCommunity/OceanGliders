@@ -10,8 +10,8 @@ A good start is also to [introduce you](https://github.com/OceanGlidersCommunity
 - [GitHub training](https://github.com/OceanGlidersCommunity/LearningGitHub/discussions/20)
 - Access and discuss the new [OceanGliders format](https://github.com/OceanGlidersCommunity/OG1.0-user-manual).
 - SOPs for Data Assembly Centers are available [here](https://oceangliderscommunity.github.io/Oxygen_SOP/README.html).
-- Join the community review of the [Oxygen SOP](https://oceangliderscommunity.github.io/Oxygen_SOP/README.html#): open until January 31 2022!
-- The [Salinity SOP](https://oceangliderscommunity.github.io/Salinity_SOP/README.html#) is now online and we will start the community review soon. 
+- Join the [Oxygen SOP](https://oceangliderscommunity.github.io/Oxygen_SOP/README.html#) community review: Open until January 31 2022!
+- Join the [Salinity SOP](https://oceangliderscommunity.github.io/Salinity_SOP/README.html#) community review: Open until February 28 2022!  
 - The [Nitrate SOP](https://oceangliderscommunity.github.io/Nitrate_SOP/README.html#) is now online and we will start the community review soon. 
 - A Depth Average Currents (DACs) SOP is in preparation and will be uploaded during autumn 2021. 
 
